@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jongsoo Ha</h1>
+<!-- <h1 align="center">View my projects at my<a href="https://nodejs.org/en/download">Website</a>.</h1><br> -->
+
 <h3 align="center">Experienced in Full-Stack development, Problem-Solving, Server-Interaction, and in Leadership. I have a huge interest in machine learning and cybersecurity. I am an analytical thinker, constantly seeking answers through communicating with others, and collaborating with different experts from various fields.</h3>
 
 <!-- 🔭 I’m currently working on [a](a_1) -->
