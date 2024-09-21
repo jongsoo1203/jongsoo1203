@@ -5,7 +5,7 @@
 
 <!-- 🔭 I’m currently working on [a](a_1) -->
 
-- 🌱 I’m currently learning **Machine Learning and Cybersecurityty**
+- 🌱 I’m currently learning **Internetworking and Machine Learning**
 
 <!-- - 👯 I’m looking to collaborate on [b](b_1) -->
 
